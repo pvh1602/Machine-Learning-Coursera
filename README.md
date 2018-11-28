@@ -1,1 +1,1 @@
-# Machine-Learnint-Coursera
+# Machine-Learning-Coursera
